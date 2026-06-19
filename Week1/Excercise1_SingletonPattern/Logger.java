@@ -1,3 +1,4 @@
+package Week1.Excercise1_SingletonPattern;
 public class Logger {
     private static Logger instance = new Logger();
 

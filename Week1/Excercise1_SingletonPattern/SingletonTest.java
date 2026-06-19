@@ -1,3 +1,4 @@
+package Week1.Excercise1_SingletonPattern;
 public class SingletonTest {
       public static void main(String[] args)
     {
