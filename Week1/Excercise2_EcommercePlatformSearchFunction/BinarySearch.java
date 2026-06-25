@@ -1,5 +1,6 @@
 package Week1.Excercise2_EcommercePlatformSearchFunction;
 
+
 public class BinarySearch {
 
     public static Product search(Product[] products, int id) {
